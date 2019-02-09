@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import java.net.*?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" id="anchor">
+	<stylesheets>
+		<URL value="@won.css" />
+	</stylesheets>
+	<VBox> <Text id="go">YOU WON</Text></VBox>
+	<!-- TODO Add Nodes -->
+</AnchorPane>
+

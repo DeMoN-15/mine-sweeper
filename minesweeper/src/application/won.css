@@ -1,0 +1,9 @@
+#anchor{
+	-fx-background-image: url(a.png);
+	-fx-background-repeat: no-repeat; 
+	-fx-background-size: 300px;
+}
+#go{
+    -fx-font-size: 2.1em;
+	
+}
